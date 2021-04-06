@@ -10,6 +10,9 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '34265'
     url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 64965-h/images/cover.jpg
 creator:
   author:
     agent_name: Marlowe, Stephen
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32369
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64965#World-Without-Glamor
 gutenberg_issued: '2021-03-30'
 gutenberg_type: Text
 identifiers:
