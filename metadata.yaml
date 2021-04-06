@@ -1,0 +1,46 @@
+_repo: World-Without-Glamor_64965
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Willis E.
+    - Terry, Bill
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Granger, Darius John
+    - Chase, Adam
+    - Lesser, Milton
+    - Wilder, Stephen
+    - Ridgway, Jason
+    - Thames, C. H.
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2021-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Space colonies -- Fiction'
+- GITenberg
+title: World Without Glamor
+url: http://www.gutenberg.org/ebooks/64965
